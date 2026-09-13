@@ -1,0 +1,7 @@
+﻿"جدول ریزمتره قالب‌بندی سازه - Superstructure Formwork Schedule"","""","""","""
+"Category"",""Family and Type"",""Material: Name"",""Material: Area"
+""","""","""","""
+"Stairs: Runs"",""Monolithic Run: 25 mm Nosing"",""CONCRETE"",""41 m²"
+"Structural Columns"",""<varies>"",""CONCRETE"",""670 m²"
+"Structural Framing"",""<varies>"",""CONCRETE"",""1472 m²"
+"Grand total: 236"","""","""",""2184 m²"
